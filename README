@@ -11,3 +11,11 @@ Installation
 Grab the plugin:
  
 ./script/plugin install git://github.com/newsdesk/swedish_pluralize.git
+
+Development
+=========
+To run the specs you need:
+rspec
+active_support
+differ => http://github.com/pvande/differ
+launchy
